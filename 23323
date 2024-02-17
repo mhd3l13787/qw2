@@ -1,0 +1,7 @@
+tar -xvzf cmake-3.25.1.tar.gz
+
+cd cmake-3.25.1
+
+./bootstrap make
+
+sudo make install
